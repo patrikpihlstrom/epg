@@ -3,3 +3,5 @@
 /channels.xml
 /guide.xml
 /guide.xml.gz
+guides
+*.sw*
